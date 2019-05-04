@@ -12,6 +12,9 @@ def using_pop(array)
   return array.pop
 end
 
-def pop_with_args (array)
+def pop_with_args(array)
   return array.pop(2)
 end
+
+def using_shift(array)
+   array.shift("Lagos")
