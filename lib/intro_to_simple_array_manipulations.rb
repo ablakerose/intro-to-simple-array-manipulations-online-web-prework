@@ -7,3 +7,7 @@ def using_unshift(array, new_neighborhood)
   new_neighborhood = "Brooklyn Heights"
   array.unshift(new_neighborhood)
 end
+
+def using_pop(array)
+  array.pop
+end
