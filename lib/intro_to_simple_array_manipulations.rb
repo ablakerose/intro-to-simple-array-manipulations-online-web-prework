@@ -9,5 +9,5 @@ def using_unshift(array, new_neighborhood)
 end
 
 def using_pop(array)
-  array.pop
+  return array.pop
 end
