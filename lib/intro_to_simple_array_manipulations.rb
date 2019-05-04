@@ -1,4 +1,4 @@
 def using_push(array, next_country)
   next_country = ("Niger")
-  array(next_country).push
+  array.push(next_country)
 end
