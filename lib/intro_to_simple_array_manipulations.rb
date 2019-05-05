@@ -23,7 +23,3 @@ end
 def shift_with_args(array)
   array.shift(2)
 end
-
-def using_concat(@my_favorite_things, @all_my_favs)
-  @all_my_favs.each {|i| @my_favorite_things << i}
-end
