@@ -26,4 +26,4 @@ end
 
 def concat(@my_favorite_things, @my_favorite_things)
 @my_favorite_things+@my_favorite_things.concat
-end 
+end
