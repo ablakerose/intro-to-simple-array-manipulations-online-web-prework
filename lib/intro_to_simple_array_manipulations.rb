@@ -25,5 +25,5 @@ def shift_with_args(array)
 end
 
 def concat(@my_favorite_things, @my_favorite_things)
-@my_favorite_things.concat()@my_favorite_things)
+@my_favorite_things.concat(@my_favorite_things)
 end
