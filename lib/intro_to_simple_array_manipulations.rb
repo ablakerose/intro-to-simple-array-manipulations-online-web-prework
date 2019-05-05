@@ -29,5 +29,5 @@ def using_concat(array, more_favs)
 end
 
 def using_insert(array, @another_esoteric_language)
-  array.insert(3, @another_esoteric_language)
+  array.insert(4, @another_esoteric_language)
 end
